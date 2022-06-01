@@ -236,7 +236,7 @@ public class Generador_cer extends javax.swing.JDialog {
             docs.add(title);
             title.setAlignment(Element.ALIGN_CENTER);
             
-            docs.add(new Paragraph("CODIGO:: " + codigo));
+            docs.add(new Paragraph("CODIGO: " + codigo));
             docs.add(new Paragraph("CANTIDAD: " + Cantidad));
             docs.add(new Paragraph("COLOR:: " + Color));
             docs.add(new Paragraph("MARCA DE EMPRESA: " + marca));
